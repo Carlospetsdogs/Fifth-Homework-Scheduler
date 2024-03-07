@@ -8,3 +8,7 @@ This web app is a simple daily schedueler that saves user input into local stora
 https://github.com/coding-boot-camp/crispy-octo-meme
 
 # Deployed Website
+https://carlospetsdogs.github.io/Fifth-Homework-Scheduler/
+
+![Deployed website image](./assets/Screenshot%202024-03-07%20at%201.39.47 PM.png)
+
